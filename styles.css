@@ -101,7 +101,7 @@
       }
       
 .product{
- width: auto; /* or any custom size */
+ width: auto; 
  height: 400px;
  background-color: #333;
  position: relative;
