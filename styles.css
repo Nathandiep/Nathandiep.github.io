@@ -100,21 +100,35 @@
         display: block;
       }
       
-.productlb{
+.product{
  width: auto; /* or any custom size */
  height: 400px;
  background-color: #333;
  position: relative;
+ margin-bottom: 5%;
 }
 
-.oefen {
+.productrechts {
+  right: 10%;
   background-color: aqua;
-  width: 30%; 
+  width: 29%; 
   height: 100%;
   position: absolute;
-
+  overflow: hidden;
+}
+.productlinks {
+  left: 10%;
+  background-color: aqua;
+  width: 29%; 
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
 }
 .productimg{
   width: auto; /* or any custom size */
-  height: 90%;
+  height: 88%;
+  margin-bottom: 0%;
+}
+.producttekst{
+  font-size: 80%;font-family: Verdana, Geneva, Tahoma, sans-serif;"
 }
