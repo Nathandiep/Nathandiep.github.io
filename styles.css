@@ -125,7 +125,7 @@
   overflow: hidden;
 }
 .productimg{
-  width: auto; /* or any custom size */
+  width: auto; 
   height: 88%;
   margin-bottom: 0%;
 }
