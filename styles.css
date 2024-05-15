@@ -111,18 +111,18 @@
 .productrechts {
   right: 10%;
   background-color: aqua;
-  width: 29%; 
+  width: 19.1%; 
   height: 100%;
   position: absolute;
-  overflow: hidden;
+  overflow: ;
 }
 .productlinks {
   left: 10%;
   background-color: aqua;
-  width: 29%; 
+  width: 19.1%; 
   height: 100%;
   position: absolute;
-  overflow: hidden;
+  overflow: ;
 }
 .productimg{
   width: auto; 
