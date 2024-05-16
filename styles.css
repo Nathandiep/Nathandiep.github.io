@@ -95,7 +95,6 @@
       }
       
       .dropdown-content a:hover {background-color: #f1f1f1;}
-      
       .dropdown:hover .dropdown-content {
         display: block;
       }
@@ -131,4 +130,18 @@
 }
 .producttekst{
   font-size: 80%;font-family: Verdana, Geneva, Tahoma, sans-serif;"
+}
+a{
+  text-decoration: none;
+  color: #333;
+}
+.cofooter {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height:15%;
+  background-color: red;
+  color: #333;
+  text-align: center;
 }
