@@ -4,7 +4,7 @@
     padding: 10;
     width: auto;
     overflow: hidden;
-    background-color: #D70040;
+    background-color: red;
     display: flex;
     justify-content: space-around;
   }
@@ -137,11 +137,29 @@ a{
 }
 .cofooter {
   position: fixed;
-  left: 0;
+  right: 0;
   bottom: 0;
-  width: 100%;
+  width: 10%;
   height:15%;
   background-color: red;
-  color: #333;
   text-align: center;
+  border-width: 2px;
+}
+.check{
+  width: auto; 
+  height: 500px;
+  background-color: #ffffff00;
+  position: relative;
+  margin-bottom: 2%;
+  margin-top: 1%;
+  margin-left: 33%;
+  margin-right: 33%;
+  border-style: solid;
+  padding: 1%;
+  border-width: 2px;
+ }
+ .checkimg{
+  width: auto; 
+  height: 80%;
+  margin-bottom: 0%;
 }
