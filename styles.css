@@ -113,7 +113,6 @@
   width: 19.1%; 
   height: 100%;
   position: absolute;
-  overflow: ;
 }
 .productlinks {
   left: 10%;
@@ -121,7 +120,6 @@
   width: 19.1%; 
   height: 100%;
   position: absolute;
-  overflow: ;
 }
 .productimg{
   width: auto; 
@@ -137,13 +135,13 @@ a{
 }
 .cofooter {
   position: fixed;
-  right: 0;
-  bottom: 0;
+  right: 10%;
+  bottom: 30%;
   width: 10%;
-  height:15%;
-  background-color: red;
+  height:20%;
   text-align: center;
   border-width: 2px;
+  border-style: solid;
 }
 .check{
   width: auto; 
