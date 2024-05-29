@@ -127,7 +127,7 @@
   margin-bottom: 0%;
 }
 .producttekst{
-  font-size: 80%;font-family: Verdana, Geneva, Tahoma, sans-serif;"
+  font-size: 80%;font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 a{
   text-decoration: none;
@@ -160,4 +160,19 @@ a{
   width: auto; 
   height: 80%;
   margin-bottom: 0%;
+}
+.newsdiv{
+  height:45% ;
+  width:50% ;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: aquamarine
+
+}
+.newsdiv p{
+  font-size:300%
+}
+.newsimg{
+  height:auto ;
+  width:100% ;
 }
