@@ -171,8 +171,20 @@ a{
 }
 .newsdiv p{
   font-size:300%
+  
 }
 .newsimg{
   height:auto ;
   width:100% ;
+}
+.item{
+background-color: aqua;
+width:80% ;
+height:500% ;
+display: flex;
+justify-content: center;
+}
+.itemimg{
+height: auto;
+width: 100%;
 }
