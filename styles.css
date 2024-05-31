@@ -113,6 +113,9 @@
   width: 19.1%; 
   height: 100%;
   position: absolute;
+  border-style: solid;
+  padding: 1%;
+  border-width: 2px;
 }
 .productlinks {
   left: 10%;
@@ -120,6 +123,9 @@
   width: 19.1%; 
   height: 100%;
   position: absolute;
+  border-style: solid;
+  padding: 1%;
+  border-width: 2px;
 }
 .productimg{
   width: auto; 
@@ -177,14 +183,30 @@ a{
   height:auto ;
   width:100% ;
 }
-.item{
-background-color: aqua;
-width:80% ;
-height:500% ;
-display: flex;
-justify-content: center;
+
+.testdiv{
+  width: auto; 
+  height: 600px;
+  background-color: #333;
+  position: relative;
+  margin-bottom: 5%;
 }
-.itemimg{
-height: auto;
-width: 100%;
+.test1{
+  left: 10%;
+  background-color: aqua;
+  width: 30%; 
+  height: 100%;
+  position: absolute;
+}
+.testimg{
+  width: auto; 
+  height: 88%;
+  margin-bottom: 0%;
+}
+.test2{
+  right: 10%;
+  background-color: aqua;
+  width: 30%; 
+  height: 100%;
+  position: absolute;
 }
