@@ -158,8 +158,8 @@ a{
   margin-top: 1%;
   margin-left: 33%;
   margin-right: 33%;
-  border-style: solid;
   padding: 1%;
+  border-style: solid;
   border-width: 2px;
  }
  .checkimg{
@@ -187,13 +187,13 @@ a{
 .testdiv{
   width: auto; 
   height: 600px;
-  background-color: #333;
+
   position: relative;
   margin-bottom: 5%;
 }
 .test1{
   left: 10%;
-  background-color: aqua;
+
   width: 30%; 
   height: 100%;
   position: absolute;
@@ -205,8 +205,19 @@ a{
 }
 .test2{
   right: 10%;
-  background-color: aqua;
+
   width: 30%; 
   height: 100%;
   position: absolute;
+}
+.test2 p{
+  font-size: 120%;font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li a, .drop {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 40px 50px;
+  text-decoration: none;
+  font-size: 120%;font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
