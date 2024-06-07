@@ -100,8 +100,8 @@
       }
       
 .product{
- width: auto; 
- height: 400px;
+ width: 100%; 
+ height: 550px;
  background-color:;
  position: relative;
  margin-bottom: 5%;
